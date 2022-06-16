@@ -1,1 +1,2 @@
-This is my personal Website
+Hi I am Navonil.
+This is the repo for my personal Website.
